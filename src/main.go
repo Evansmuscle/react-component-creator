@@ -40,8 +40,6 @@ func main() {
 		if args[i] == "--use-jest" {
 			useJest = true
 		}
-
-		fmt.Println(args[i])
 	}
 	
 	if componentName, ok := args[0]; ok {
