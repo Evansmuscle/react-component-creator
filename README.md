@@ -17,9 +17,10 @@ On linux and mac you execute the following command to add it to your path:
 
 On Windows you must set the path variable by searching the **Edit the system environment variables**
 section on your pc, opening it, then clicking **Environment Variables** on the right bottom corner,
-clicking New in the **System Variables** section and then adding the full path there, like:
+clicking New in the **System Variables** section and then adding the full path there,
+without the exe file itself like:
 
-> C/path/to/the/repo/build/rcc.exe
+> C/path/to/the/repo/build
 
 # Usage
 
